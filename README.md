@@ -6,4 +6,4 @@ Enquanto o carnaval não vem, divirta-se com esse jogo de perguntas e respostas 
 
 O jogo de quiz será focado em perguntas e respostas relacionadas ao Carnaval de SP e RJ - trazendo diversas curiosidades sobre essa cultura tão rica do nossso país.
 
-![Capa do Projeto](https://github.com/FihCapua/BatuqueQuiz/blob/main/public/batuquequiz.png?raw=true)
+![Capa do Projeto](https://raw.githubusercontent.com/FihCapua/batuque-quiz/main/public/batuquequiz.png)
