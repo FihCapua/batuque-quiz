@@ -55,6 +55,8 @@ Widget.HeaderImage = styled.h1`
 
 Widget.Content = styled.div`
   padding: 24px 32px 32px 32px;
+  background-color: #232323;
+  color: #fff;
 
   & > *:first-child {
     margin-top: 0;

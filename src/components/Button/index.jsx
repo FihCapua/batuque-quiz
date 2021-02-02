@@ -5,8 +5,8 @@ const Button = styled.button`
   border-radius: 0;
   padding: 8px;
   border: 1px solid ${({ theme }) => theme.colors.border};
-  background: ${({ theme }) => theme.colors.primary};
-  color: ${({ theme }) => theme.colors.altBg};
+  background: ${({ theme }) => theme.colors.fourth};
+  color: ${({ theme }) => theme.colors.destText};
   width: 100%;
   font-family: "Work Sans";
   font-size: 1rem;
@@ -16,7 +16,7 @@ const Button = styled.button`
   cursor: pointer;
 
   &:hover {
-    background: ${({ theme }) => theme.colors.secondary};
+    background: ${({ theme }) => theme.colors.fifthy};
     transform: translate(-5px, -5px);
     box-shadow: 10px 10px 0 rgba(0,0,0,0.2);
   }

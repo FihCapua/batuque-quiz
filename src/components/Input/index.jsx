@@ -8,6 +8,7 @@ const BaseInput = styled.input`
   display: block;
   border: none;
   border-bottom: 1px solid ${({ theme }) => theme.colors.border};
+  color: ${({ theme }) => theme.colors.third};
   padding: 4px 0;
   font-size: 1rem;
   font-family: "Work Sans";
@@ -37,7 +38,7 @@ const InputLabel = styled.label`
   margin: 0 0 4px;
   font-weight: 300;
   letter-spacing: 1px;
-  color: ${({ theme }) => theme.colors.primary};
+  color: ${({ theme }) => theme.colors.third};
 
   &:after {
     content: ':';
