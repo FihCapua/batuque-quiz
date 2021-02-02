@@ -1,0 +1,97 @@
+{
+  "bg": "https://wallpaperaccess.com/full/531967.jpg",
+  "title": "BatuqueQuiz",
+  "description": "Enquanto o carnaval não vem, divirta-se com esse jogo de perguntas e respostas sobre o maior espetáculo da terra!",
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#9c27b0",
+      "secondary": "#41307a",
+      "third": "#FFF",
+      "mainBg": "#1C1814",
+      "border": "#000000",
+      "altBg": "#FFFFFF",
+      "dimmed": "#EFDDFE",
+      "headBg": "#BBBBBB",
+      "text": "#131313",
+      "wrong": "#F44336",
+      "success": "#357a38"
+    }
+  },
+  "questions": [
+    {
+      "image": "https://media2.giphy.com/media/JeMD3oDbPqlZC/giphy.gif?cid=ecf05e47rrb2um8zvk6vaqgux50o2uda6ginao3sgmddla75&rid=giphy.gif",
+      "title": "Questão 1",
+      "description": "Porque o carnaval de escolas de samba é tão conhecido?",
+      "answer": 2,
+      "alternatives": [
+        "Pelos 4 dias de festa",
+        "Pela beleza",
+        "Pela sua dimensão, e por ser um um movimento genuinamente brasileiro",
+        "Pelo calor"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/xMFLxydyBbpja/giphy.gif?cid=ecf05e47njpu4mb1j3badijyug8i85g0er0zhlrpq3lfkgeo&rid=giphy.gif",
+      "title": "Questão 2",
+      "description": "Qual dos sambódromos foi um projeto de Oscar Niemeyer?",
+      "answer": 3,
+      "alternatives": [
+        "Nenhum",
+        "Sambódromo do Anhembi",
+        "Sambódromo da Marquês de Sapucaí",
+        "Os dois"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/xTiN0Dar4ZUJaGYJPO/giphy.gif",
+      "title": "Questão 3",
+      "description": "Qual escola de Samba do Rio de Janeiro que mais possui títulos?",
+      "answer": 3,
+      "alternatives": [
+        "Mangueira",
+        "Salgueiro",
+        "Viradouro",
+        "Portela"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/xT0BKIdbfOC36iKuIM/giphy.gif?cid=ecf05e472caf97a4018cceec13ea65352877e7e4fea0a0e5&rid=giphy.gif",
+      "title": "Questão 4",
+      "description": "Qual a escola de samba que mais venceu em São Paulo?",
+      "answer": 0,
+      "alternatives": [
+        "Vai-Vai",
+        "Gaviões da Fiel",
+        "Peruche",
+        "Mocidade Alegre"
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/l0IydNaYUbbY9bXcQ/giphy.gif?cid=ecf05e4781vp1pt1tr6hnm0f517zbea2nc9bnczapm8wjbua&rid=giphy.gif",
+      "title": "Questão 5",
+      "description": "Qual escola revolucionou as baterias trazendo as famosas 'paradinhas'?",
+      "answer": 2,
+      "alternatives": [
+        "Mangueira",
+        "Mocidade Alegre",
+        "Mocidade Independente de Padre Miguel",
+        "Vila Maria"
+      ]
+    },
+    {
+      "image": "https://media2.giphy.com/media/l1JoiTue4DrvB0nAY/giphy.gif?cid=ecf05e4710bff3fcb005e2a065a7cc337215a867992d7839&rid=giphy.gif",
+      "title": "Questão 6",
+      "description": "Qual escola de Samba é a mais antiga em atividade em São Paulo?",
+      "answer": 1,
+      "alternatives": [
+        "Camisa Verde e Branco",
+        "Lavapés",
+        "Unidos do Peruche",
+        "Rosas de Ouro"
+      ]
+    }
+  ]
+}
